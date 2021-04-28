@@ -1,0 +1,23 @@
+{
+	"rotation": false,
+	"colors": [],
+	"gradient": {
+		"exist": true,
+		"forEachLine": true,
+		"angle": "90",
+		"gradients": ["white 0", "lightgrey 0.40", "black 0.5","darkgrey 0.8", "lightgrey 1"]
+	},
+	"stroke":{
+		"exist": true,
+		"color": "darkgrey",
+		"lineWidth": "2"
+	},
+	"filter":{
+		"exist": true,
+		"color": "black",
+		"brightness": "30"
+	},
+	"glow":{
+		"exist": false
+	}
+}
