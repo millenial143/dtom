@@ -1,0 +1,17 @@
+{
+	"token": "NzA1Nzg2NDY3NjQwODAzMzU4.Xq1j-g.M6jmsubatchr81Q6e_nMP1gJA4U",
+	"phrases_mp3_files": "./mp3_files/phrases",
+	"hello_mp3_files": "./mp3_files/hello",
+	"commands":{
+		"draw": {
+			"inscriptionFolder": "inscription-styles"
+		}
+	},
+	"hook_color":{
+		"fun":"#DC6AA7",
+		"settings":"#D4C640",
+		"blue":"#4BA1EC",
+		"green":"#55D440",
+		"red": "#D44045"
+	}
+}
