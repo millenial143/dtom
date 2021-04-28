@@ -25,7 +25,7 @@
   # Первоначальная настройка
   Откройте файл DTOM-config.json 
 
-    ```
+
     {
         "token": "ENTER_YOUR_TOKEN",
         "phrases_mp3_files": "./mp3_files/phrases",
@@ -43,16 +43,26 @@
             "red": "#D44045"
 	    }
     }
-    ```
+
     
    Замените надпись ENTER_YOUR_TOKEN на ваш токен, получить его можно [здесь](https://discord.com/developers/applications)
     
    Так же вы можете изменить цвета вебхуков используемых ботом в "hook_color"
    
-   О других настройках и командах бы можете прочить здесь
+   ```
+   const mysqlConnection = mysql.createConnection({
+		host: "localhost",
+		user: "root",
+		database: "YOUR_DB",
+		password: "root"
+	});
+```
+   Так же для полноценного функционирования бота вам понадобится база данных mySQL, параметры базы данных можно изменить в файле index.js
+   
+   О других настройках и командах бы можете прочить [здесь](https://drive.google.com/file/d/1ZhNWDVWm4XmUuD2cTX_s_5Monh20oHB8/view?usp=sharing)
    
    # Обратная связь
-   Сообщения о неисправностях а так же предложения по улучшению бота просьба направлять сюда:
+   Сообщения о неисправностях а так же предложения по улучшению бота просьба направлять сюда: amut.besp@gmail.com
     
     
     
