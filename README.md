@@ -15,7 +15,7 @@
     ```
     git clone https://github.com/millenial143/dtom.git
     ```
-* Затем запустите
+* Затем в папке dtom запустите
 
     ```
     npm install
