@@ -13,12 +13,57 @@
 * Для начала скопируйте репозитoрий
 
     ```
-    <git clone https://github.com/millenial143/dtom.git>
+    git clone https://github.com/millenial143/dtom.git
     ```
 * Затем запустите
-<npm install>
+
+    ```
+    npm install
+    ```
 Для того что бы установить все зависимости (для этого должен быть установлен node js)
   
   # Первоначальная настройка
   Откройте файл DTOM-config.json 
 
+    ```
+    {
+        "token": "ENTER_YOUR_TOKEN",
+        "phrases_mp3_files": "./mp3_files/phrases",
+        "hello_mp3_files": "./mp3_files/hello",
+        "commands":{
+            "draw": {
+                "inscriptionFolder": "inscription-styles"
+            }
+        },
+        "hook_color":{
+            "fun":"#DC6AA7",
+            "settings":"#D4C640",
+            "blue":"#4BA1EC",
+            "green":"#55D440",
+            "red": "#D44045"
+	    }
+    }
+    ```
+    
+   Замените надпись ENTER_YOUR_TOKEN на ваш токен, получить его можно [здесь](https://discord.com/developers/applications)
+    
+   Так же вы можете изменить цвета вебхуков используемых ботом в "hook_color"
+   
+   О других настройках и командах бы можете прочить здесь
+   
+   # Обратная связь
+   Сообщения о неисправностях а так же предложения по улучшению бота просьба направлять сюда:
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
