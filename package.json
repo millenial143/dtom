@@ -1,7 +1,7 @@
 {
-  "name": "myawesomebot",
+  "name": "dtom",
   "version": "1.0.0",
-  "description": "Discord bot with speech recognition",
+  "description": "Discord bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
