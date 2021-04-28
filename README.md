@@ -11,6 +11,7 @@
 # Устанока
 Вы можете добавить бота на свой сервер по этой [ссылке](https://discordapp.com/api/oauth2/authorize?client_id=705786467640803358&permissions=262143&scope=bot) или использовать его сами! Для этого следуйте иструкции ниже:
 * Для начала скопируйте репозитoрий
+
     ```
     <git clone https://github.com/millenial143/dtom.git>
     ```
